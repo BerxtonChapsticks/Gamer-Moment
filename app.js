@@ -47,4 +47,3 @@ function countDown() {
 
 }
 
-let countDownTimerIds = setInterval(countDown, 1000)
